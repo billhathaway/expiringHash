@@ -2,7 +2,9 @@ expiringHash
 ==
 This was an experiment to see how easy it would be to write a library for an expiring hash table.
 
-It is not optimized, but seems to work correctly.
+It is not optimized, but seems to work correctly.  
+
+[![GoDoc](https://godoc.org/github.com/billhathaway/expiringHash?status.png)](http://godoc.org/github.com/billhathaway/expiringHash)
 
 Example:
 ```
