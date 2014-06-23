@@ -1,5 +1,7 @@
 expiringHash
 ==
+[![Build Status](https://travis-ci.org/billhathaway/expiringHash.svg?branch=master)](https://travis-ci.org/billhathaway/expiringHash)
+
 This was an experiment to see how easy it would be to write a library for an expiring hash table.
 
 It is not optimized, but seems to work correctly.  
